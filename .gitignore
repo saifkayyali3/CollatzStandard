@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# User data that may accidentally enter
+*.csv
