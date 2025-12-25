@@ -7,7 +7,7 @@ A professional-grade Python tool that explores the 3n + 1 problem. This applicat
 
 **-Data Export: Utilizes Pandas to serialize sequence data into a `.csv` file for external analysis in Excel or SQL.**
 
-**Adaptive Logarithmic Scaling: Automatically switches to $Log_{10}$ visualization for "Unspeakably High" numbers to prevent hardware overflow and maintain graph readability.**
+**-Adaptive Logarithmic Scaling: Automatically switches to $Log_{10}$ visualization for "Unspeakably High" numbers to prevent hardware overflow and maintain graph readability.**
 
 ---
 
