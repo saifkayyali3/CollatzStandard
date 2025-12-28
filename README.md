@@ -1,17 +1,17 @@
 # Collatz Conjecture Visualizer & Data Exporter
-A professional-grade Python tool that explores the 3n + 1 problem. This application doesn't just calculate sequences; it provides a full suite for data analysis and visualization.
+A professional-grade Python tool that explores the $3n + 1$ problem. This application doesn't just calculate sequences; it provides a full suite for data analysis and visualization.
 
 ---
 
 #### Note: entered numbers lose precision as they become more unspeakably high
-#### If you want to check out the Research on this project and the findings or just test out large numbers without any inaccuracies: *[Click Here](https://github.com/saifkayyali3/Collatz_Research)*
+#### To test unspeakably high numbers accurately or see the Research behind this project: *[Click Here](https://github.com/saifkayyali3/Collatz_Research)*
 
 ---
 
 ## Features
 - Algorithmic Calculation: Fast processing of the Collatz sequence for any integer
 
-- Interactive Visualization: Generates dynamic line graphs using Matplotlib to show the "hailstone" peaks and valleys.
+- Interactive Visualization: Generates dynamic line graphs using `Matplotlib` to show the "hailstone" peaks and valleys.
 
 - Data Export: Utilizes Pandas to serialize sequence data into a `.csv` file for external analysis in Excel or SQL.
 
@@ -25,7 +25,7 @@ A professional-grade Python tool that explores the 3n + 1 problem. This applicat
 * Libraries Used: `Tkinter`, `Pandas` and `Matplolib`
 
 
-* Concepts: Data Engineering pipelines, State Management, Mathematical Modeling.
+* Concepts: Data Engineering pipelines, State Management and Mathematical Modeling.
 
 ---
 
